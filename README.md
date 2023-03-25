@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/958859/screenshots/14519055/media/6ff256195eede33d5c04aaee5e0ba773.gif)](https://rahulwarkade.io)
 <h1 align="center">Hi 👋, I'm RAHUL WARKADE</h1>
 <h3 align="center">A passionate java developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/88571832?v=4" alt="rahulwarkad" />
+<img align="right" alt="Coding" width="400" src="[https://avatars.githubusercontent.com/u/88571832?v=](https://media.licdn.com/dms/image/D4D03AQFLakIvNIv-GQ/profile-displayphoto-shrink_400_400/0/1679640066575?e=1684972800&v=beta&t=-kkSpOmbIg3MhwpygkWfiBnt36ODDbCM_UT1aDnpork)4" alt="rahulwarkad" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulwarkad&label=Profile%20views&color=0e75b6&style=flat" alt="rahulwarkad" /> </p>
 
 - 🔭 I’m currently working on **competitive programming**
