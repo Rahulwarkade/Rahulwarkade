@@ -1,14 +1,14 @@
 [![MasterHead](https://cdn.dribbble.com/users/958859/screenshots/14519055/media/6ff256195eede33d5c04aaee5e0ba773.gif)](https://rahulwarkade.io)
 <h1 align="center">Hi 👋, I'm RAHUL WARKADE</h1>
-<h3 align="center">A passionate java developer.</h3>
+<h3 align="center">MERN Developer | Mastering Java, C++, and JavaScript | Crafting program for Tomorrow's Tech Landscape 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/88571832?v=4" alt="rahulwarkad" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulwarkad&label=Profile%20views&color=0e75b6&style=flat" alt="rahulwarkad" /> </p>
 
 - 🔭 I’m currently working on **competitive programming**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **HTML, CSS, JAVA**
+- 💬 Ask me about **HTML, CSS, JAVA, JavaScript**
 
 - 📫 How to reach me **rahulwarkade954@gmail.com**
 
